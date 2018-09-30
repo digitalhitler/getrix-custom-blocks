@@ -7,5 +7,6 @@
 
 .wp-block-getrix-custom-blocks-note strong {
 	font-family: "pfhighway", "Rubik", "Helvetica Neue", "Helvetica", "Verdana", "Droid Sans", sans-serif !important;
-	font-size: 15px;
+	font-size: 18px;
+	font-weight: 600;
 }
