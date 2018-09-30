@@ -1,0 +1,12 @@
+.wp-block-getrix-custom-blocks-note {
+	padding: 12px;
+	margin: 12px 0;
+	background-color: rgb(255, 248, 184);
+	color: black;
+}
+
+.wp-block-getrix-custom-blocks-note strong {
+	font-family: "pfhighway", "Rubik", "Helvetica Neue", "Helvetica", "Verdana", "Droid Sans", sans-serif !important;
+	font-size: 18px;
+	font-weight: 600;
+}
